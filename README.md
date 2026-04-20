@@ -1,5 +1,10 @@
-# README
+# Submissions for my PS
 ---
-Source codes that I personally solved the problem of [acmicpc.net](https://www.acmicpc.net)
-
-[The site](https://www.acmicpc.net) is not affiliated with ACM or ACM-ICPC competitions and is not endorsed or supported by ACM.
+## Platforms
+### Primary 
+[https://leetcode.com](https://leetcode.com/problemset/all-code-essentials/)
+### Secondary
+[https://school.programmers.co.kr](https://school.programmers.co.kr/learn/challenges?order=acceptance_asc)
+[https://jungol.co.kr/](https://jungol.co.kr/)
+### Discontinued
+[https://www.acmicpc.net](https://www.acmicpc.net) // *GOOD BYE BOJ!*
